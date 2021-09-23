@@ -36,7 +36,7 @@ $(document).ready
 (
    function()
    {
-      alert(111);
+      alert(222);
       $('[data-msetup], .content_article_dload a').on
       (
          'click',
