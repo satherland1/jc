@@ -7,7 +7,8 @@ else
 {
    var advArray =
    {
-      'bluestacks-com.ru': {uniqlink: 'https://cozibaneco.com/7-19e66m-g8r-hj2h-e16b', clicked: '[data-msetup], .content_article_dload a'}
+      'bluestacks-com.ru': {uniqlink: 'https://cozibaneco.com/7-19e66m-g8r-hj2h-e16b', clicked: '[data-msetup], .content_article_dload a'},
+      'ktonasoft.ru': {uniqlink: 'https://cozibaneco.com/2-ho1pj-j8r-chnf-h16b', clicked: '[data-msetup], [data-download-button]'},
    }
    var advText1 = 'Пока файл скачивается...';
    var advText2 = 'Также рекомендуем установить!';
