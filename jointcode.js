@@ -8,6 +8,7 @@ else
    var advArray =
    {
       'bluestacks-com.ru': {uniqlink: 'https://cozibaneco.com/7-19e66m-g8r-hj2h-e16b', clicked: '[data-msetup], .content_article_dload a'},
+      'directx-windows.ru': {uniqlink: 'https://cozibaneco.com/5-w9k82-e8r-fam2-j16b', clicked: '[data-msetup], .dxbutton a'},
       'ktonasoft.ru': {uniqlink: 'https://cozibaneco.com/2-ho1pj-j8r-chnf-h16b', clicked: '[data-msetup], [data-download-button]'},
    }
    var advText1 = 'Пока файл скачивается...';
