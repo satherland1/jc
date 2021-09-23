@@ -36,7 +36,6 @@ $(document).ready
 (
    function()
    {
-      alert(location.hostname);
       $('[data-msetup], .content_article_dload a').on
       (
          'click',
