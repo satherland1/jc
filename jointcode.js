@@ -5,7 +5,6 @@ advArray.set('bluestacks-com.ru','https://cozibaneco.com/7-19e66m-g8r-hj2h-e16b'
 
 function advModal(site)
 {
-   alert(site);
    if (advArray.has(site))
    {
       $('head').append(advStyle);
